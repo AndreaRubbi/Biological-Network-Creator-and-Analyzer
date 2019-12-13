@@ -1,5 +1,7 @@
 # Biological Network Creator and Analyzer by: Andrea Rubbi
 
+!(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi5vP3ov7LmAhUQGuwKHRicCXcQjRx6BAgBEAQ&url=https%3A%2F%2Ficon-library.net%2Ficon%2Fnetwork-icon-3.html&psig=AOvVaw1PJWrxSzJC671_2yDrEwm9&ust=1576322165725498)
+
 
 Biological Network Creator and Analyzer: python program able to identify the unique interactions between human proteins from Uniprot database, plot them and, if requested, analyze a subgraph with respect to some target proteins 
 

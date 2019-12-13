@@ -37,7 +37,3 @@ link of that file --> ftp://ftp.ebi.ac.uk/pub/databases/intact/current/all.zip
  -- concurrent.futures --> python3 -m pip install futures
 
 
-
-
-
-

@@ -35,4 +35,3 @@ link of that file --> ftp://ftp.ebi.ac.uk/pub/databases/intact/current/all.zip
  -- matplotlib.pyplot --> python3 -m pip install matplotlib
  -- networkx --> python3 -m pip install networkx
  -- concurrent.futures --> python3 -m pip install futures
-
